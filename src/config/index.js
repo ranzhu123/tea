@@ -12,8 +12,8 @@ exports.HOST = 'http://localhost:3000';
 // API
 exports.TIMEOUT = 5000; // 接口默认超时时间
 exports.API_CODE = {
-  OK: 0,
-  NOT_LOGIN: '401'
+    OK: 0,
+    NOT_LOGIN: '401'
 };
 
 exports.LOCAL_STORAGE = {

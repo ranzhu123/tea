@@ -1,5 +1,4 @@
 {
-  "name": "tea-pro",
   "version": "1.0.0",
   "description": "A Vue.js project",
   "author": "986364200@qq.com",
@@ -14,6 +13,7 @@
     "lint": "eslint --ext .js,.vue src test/unit/specs test/e2e/specs"
   },
   "dependencies": {
+    "element-ui": "^1.4.1",
     "vue": "^2.3.3",
     "vue-router": "^2.6.0"
   },
